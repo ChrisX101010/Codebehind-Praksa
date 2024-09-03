@@ -1,0 +1,11 @@
+{
+  "name": "zadatak-olimpijske-igre",
+  "version": "1.0.0",
+  "descripton": "simulacija košarkaškog turnira koristeći Node.js",
+  "main": "tournament.js",
+  "scripts": {
+    "start": "node tournament.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
